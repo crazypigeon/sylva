@@ -1,6 +1,6 @@
 # README
 
-* SC552ES(22Mhz) V1.563 (C)1997 SYLVA Control Systems *
+> * SC552ES(22Mhz) V1.563 (C)1997 SYLVA Control Systems *
 
 All files in the *from_vendor* folder are random files related to this control I collected from around the internet. I DO NOT OWN THESE FILES AND I DID NOT CREATE THEM. However considering how difficult finding documentation was I figure I'd collect them all for future people.
 
