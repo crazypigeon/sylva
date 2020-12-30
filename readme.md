@@ -6,14 +6,18 @@ On boot, the board identifies itself as:
 
 > \* SC552ES(22Mhz) V1.563 (C)1997 SYLVA Control Systems *
 
-It has a whole bunch of analog and digital outputs, plus a collection of expansion boards which I haven't figured out yet.
+The board appears to be a vintage Intel 8051 design using a Phillips 90C552 CPU with a whole bunch of glue logic. Primarily intended for home automation (via X10) or potentially data collection (via I2C + ADC/digital inputs)
 
-All files in the *from_vendor* folder are random files related to this control I collected from around the internet, mostly the Internet Archive. I DO NOT OWN THESE FILES AND I DID NOT CREATE THEM.
+Note: All files in the *from_vendor* folder are collected from around the internet, mostly the Internet Archive. I DO NOT OWN THESE FILES AND I DID NOT CREATE THEM.
 
 ## Manuals
 
 - [Scans of the manual + related documentation I recieved with the board are in the "scans" directory](/manual_scans)
 - I suspect these are just printed out versions of the ["WinHelp" files downloaded from the Sylva website. I found a copy of these on the Internet Archive and included them in the repo.](/from_vendor/sylvaman.hlp) I'm unsure how different the WinHelp files are from the PDFs I have.
+
+## EEPROM Images
+
+- [I dumped the ROM for the board I have (V1.563)](/rom_dumps/SC552ES%2022Mhz%20V1.563.BIN)
 
 ## My configuration:
 
