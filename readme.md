@@ -6,7 +6,7 @@ On boot, the board identifies itself as:
 
 > \* SC552ES(22Mhz) V1.563 (C)1997 SYLVA Control Systems *
 
-The board appears to be a vintage Intel 8051 design using a Phillips 90C552 CPU with a whole bunch of glue logic. Primarily intended for home automation (via X10) or potentially data collection (via I2C + ADC/digital inputs)
+The board appears to be a vintage Intel 8051 design using a Phillips 80C552 CPU with a whole bunch of glue logic. Primarily intended for home automation (via X10) or potentially data collection (via I2C + ADC/digital inputs)
 
 Note: All files in the *from_vendor* folder are collected from around the internet, mostly the Internet Archive. I DO NOT OWN THESE FILES AND I DID NOT CREATE THEM.
 
